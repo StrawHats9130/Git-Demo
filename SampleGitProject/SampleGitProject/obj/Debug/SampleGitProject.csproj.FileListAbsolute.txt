@@ -1,0 +1,1 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\bin\Debug\SampleGitProject.exe.config
