@@ -8,7 +8,9 @@ namespace SampleGitProject
 {
    public class Strings
    {
-       public string firstString = String.Empty;
+       public string firstString = string.Empty;
        public string secondString = string.Empty;
+       public string thirdString = string.Empty;
+
    }
 }
