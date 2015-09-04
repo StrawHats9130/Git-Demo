@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace SampleGitProject
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
-
-        }
-    }
+   public class Strings
+   {
+       public string firstString = String.Empty;
+       public string secondString = string.Empty;
+   }
 }
