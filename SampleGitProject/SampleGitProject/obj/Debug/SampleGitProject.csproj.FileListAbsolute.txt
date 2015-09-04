@@ -1,1 +1,6 @@
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\bin\Debug\SampleGitProject.exe.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\bin\Debug\SampleGitProject.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\bin\Debug\SampleGitProject.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\obj\Debug\SampleGitProject.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\obj\Debug\SampleGitProject.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Git Demo\SampleGitProject\SampleGitProject\obj\Debug\SampleGitProject.pdb

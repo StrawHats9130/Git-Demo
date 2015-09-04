@@ -10,7 +10,13 @@ namespace SampleGitProject
     {
         static void Main(string[] args)
         {
+            var NewStringsObject = new Strings();
 
+            NewStringsObject.firstString = "Some random text value";
+
+            Console.WriteLine(string.Format("The value of the first string in this program is {0}", NewStringsObject.firstString));
+
+            Console.ReadLine();
 
         }
     }
